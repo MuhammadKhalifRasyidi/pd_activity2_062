@@ -42,4 +42,12 @@ int main() {
 			cin >> lebar;
 			cout << "Luas persegipanjang = " << Luaspersegipanjang(panjang, lebar);
 			break; 
+
+		case 2:
+			cout << "Masukan alas : ";
+			cin >> alas;
+			cout << "Masukan tinggi : ";
+			cin >> tinggi;
+			cout << "Luas Segitiga = " << Luassegitiga(alas, tinggi);
+			break;
 }
