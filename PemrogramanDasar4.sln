@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PemrogramanDasar4", "PemrogramanDasar4\PemrogramanDasar4.vcxproj", "{0D457B01-53DA-4928-9DFC-3F45F2234E01}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PD_latihan 2", "..\PD_latihan 2\PD_latihan 2.vcxproj", "{BD24D935-DD52-4442-B2D3-1DE65A5974F0}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PD4 latihan 2", "..\PD4 latihan 2\PD4 latihan 2.vcxproj", "{B2B65560-8A19-47EE-86B0-B15DB68C6C38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,14 +23,14 @@ Global
 		{0D457B01-53DA-4928-9DFC-3F45F2234E01}.Release|x64.Build.0 = Release|x64
 		{0D457B01-53DA-4928-9DFC-3F45F2234E01}.Release|x86.ActiveCfg = Release|Win32
 		{0D457B01-53DA-4928-9DFC-3F45F2234E01}.Release|x86.Build.0 = Release|Win32
-		{BD24D935-DD52-4442-B2D3-1DE65A5974F0}.Debug|x64.ActiveCfg = Debug|x64
-		{BD24D935-DD52-4442-B2D3-1DE65A5974F0}.Debug|x64.Build.0 = Debug|x64
-		{BD24D935-DD52-4442-B2D3-1DE65A5974F0}.Debug|x86.ActiveCfg = Debug|Win32
-		{BD24D935-DD52-4442-B2D3-1DE65A5974F0}.Debug|x86.Build.0 = Debug|Win32
-		{BD24D935-DD52-4442-B2D3-1DE65A5974F0}.Release|x64.ActiveCfg = Release|x64
-		{BD24D935-DD52-4442-B2D3-1DE65A5974F0}.Release|x64.Build.0 = Release|x64
-		{BD24D935-DD52-4442-B2D3-1DE65A5974F0}.Release|x86.ActiveCfg = Release|Win32
-		{BD24D935-DD52-4442-B2D3-1DE65A5974F0}.Release|x86.Build.0 = Release|Win32
+		{B2B65560-8A19-47EE-86B0-B15DB68C6C38}.Debug|x64.ActiveCfg = Debug|x64
+		{B2B65560-8A19-47EE-86B0-B15DB68C6C38}.Debug|x64.Build.0 = Debug|x64
+		{B2B65560-8A19-47EE-86B0-B15DB68C6C38}.Debug|x86.ActiveCfg = Debug|Win32
+		{B2B65560-8A19-47EE-86B0-B15DB68C6C38}.Debug|x86.Build.0 = Debug|Win32
+		{B2B65560-8A19-47EE-86B0-B15DB68C6C38}.Release|x64.ActiveCfg = Release|x64
+		{B2B65560-8A19-47EE-86B0-B15DB68C6C38}.Release|x64.Build.0 = Release|x64
+		{B2B65560-8A19-47EE-86B0-B15DB68C6C38}.Release|x86.ActiveCfg = Release|Win32
+		{B2B65560-8A19-47EE-86B0-B15DB68C6C38}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
